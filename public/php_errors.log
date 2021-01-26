@@ -1,0 +1,1 @@
+[27-Aug-2020 17:43:46 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /Library/WebServer/Documents/easybima/storage/framework/views/c30301a182242a41ce048c9455406a3e5b290044.php on line 284
